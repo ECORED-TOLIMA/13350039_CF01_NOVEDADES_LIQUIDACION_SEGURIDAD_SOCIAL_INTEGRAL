@@ -268,7 +268,7 @@
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema2/img37.png' alt='AvatarTop')
-    p Una situación frecuente que el profesional de nómina debe gestionar es el cambio de EPS por parte del trabajador. Este trámite solo puede realizarse una vez al año, durante el período de movilidad que la EPS habilita en junio. Fuera de ese período, el traslado únicamente procede en las siguientes situaciones excepcionales:
+    p.mb-4 Una situación frecuente que el profesional de nómina debe gestionar es el cambio de EPS por parte del trabajador. Este trámite solo puede realizarse una vez al año, durante el período de movilidad que la EPS habilita en junio. Fuera de ese período, el traslado únicamente procede en las siguientes situaciones excepcionales:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.bgf4
