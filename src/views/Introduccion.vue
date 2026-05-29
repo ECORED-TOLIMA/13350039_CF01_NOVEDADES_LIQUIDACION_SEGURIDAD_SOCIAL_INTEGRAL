@@ -7,7 +7,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    .row.justify-content-center.align-items-center.bgf01.p-4.mb-4
+    .row.justify-content-center.align-items-center.bgfI01.p-4.mb-4
       .col-lg-1
         figure
           img(src='@/assets/curso/temas/intro/img1.svg', alt='')
@@ -16,7 +16,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
         p En este contexto, el Sistema de Seguridad Social Integral, creado por la Ley 100 de 1993 y sustentado en los artículos 48 y 49 de la Constitución Política de 1991, establece el conjunto de instituciones, normas y procedimientos que garantizan la protección de los trabajadores frente a los riesgos de enfermedad, vejez, invalidez, muerte y accidentes laborales. Su estructura comprende tres componentes interrelacionados: el Sistema General de Seguridad Social en Salud (SGSSS), el Sistema General de Pensiones (SGP) y el Sistema General de Riesgos Laborales (SGRL). La correcta operación de este sistema exige que cada actor de la relación laboral conozca con precisión sus obligaciones de afiliación, cotización y reporte, independientemente del tipo de contrato que origine el vínculo.
-        .cajon.bgf02.p-4.mb-4
+        .cajon.bgfI02.p-4.mb-4
           p.mb-0 Este componente formativo tiene como propósito brindar al aprendiz una comprensión integral de los fundamentos normativos que regulan el Sistema de Seguridad Social Integral en Colombia, abordando los tipos de contrato que determinan las obligaciones frente al sistema, los procesos de afiliación obligatoria, la distribución de los aportes y el manejo correcto de las novedades de nómina que inciden en la liquidación. El estudio de estos contenidos busca fortalecer la capacidad de identificar, validar y aplicar la normativa vigente en situaciones laborales reales, garantizando el cumplimiento responsable de las obligaciones legales del empleador o contratante.
       .col-lg-3
         figure

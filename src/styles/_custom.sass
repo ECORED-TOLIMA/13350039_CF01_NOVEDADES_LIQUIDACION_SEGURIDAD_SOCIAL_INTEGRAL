@@ -80,9 +80,9 @@
   color: #000000 !important
 
 //Fondos
-.bgf01
+.bgfI01
   background-color: #FEF5DE
-.bgf02
+.bgfI02
   background-color: #D4FCEE
 
 
@@ -168,4 +168,290 @@
 .tit-tarj
   margin-top: 2px
   height: 60px
+/////////////////////////////////////////////////import css-variables from 
 
+//Fondos
+.bgf1
+  background-color: #FEF5DE
+.bgf2
+  background-color: #FF9E74
+.bgf2-1
+  background-color: #FF9E74
+  border-radius: 15px
+.bgf3
+  background-color: #FFECE3
+.bgf4
+  background-color: #D4FCEE
+
+.bgf5
+  background-color: #FFE6A5
+
+//// Tarjetas --------------------------------------
+.crd
+  &.brd--rad
+    border-radius: 20px 
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background: #EEE6FD
+    border-radius: 15px 
+    &:hover      
+      background: #F9CE5D
+      h4, p
+      .bottomCircle
+        &::before
+          background-color: #D35560
+  &.crd--blue
+    background-color: #B1DBEA
+
+  &.crd--border
+    border: 4px solid $color-acento-botones
+    border-radius: 20px
+
+.bottomCircle
+  img
+    max-width: 40%
+    margin: 11.5% 30%
+
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 170px
+    height: 170px
+    background-color: #580CE6
+    border-radius: 999px
+  @media (max-width: 1000px)
+    img
+      max-width: 45%
+      margin: 86px
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: #7F4FC7
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #C5E5FE
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last
+  &::before 
+    background-color: #DDEDF8 !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+.tabla-a thead
+  background-color: #FF9E74
+.tabla-a.color-acento-contenido thead
+  border-color: #FF9E74
+
+.tarjeta--azul
+  background-color: #C1D5EB !important
+
+.acordion__activo
+  background-color:#F6F6DF !important
+.acordion__accion__btn--a
+  background-color: #580CE6
+  color: white !important
+  font-weight: bold !important
+.fa-computer
+  color: #FFB758
+
+.lista-ol li, .lista-ol--cuadro li, .lista-ul li, .lista-ul--separador li, .lista-ul--color li 
+  display: flex
+.tabs-c__tab
+  background-color: #EEE6FD
+.tabs-c__tab--active
+  background-color: #fff
+  color: black
+.tabs-c
+  background-color: #FEF5DE
+
+.BG04
+  background-image: url("../assets/curso/temas/tema1/imgfondoslyf.png")
+  background-repeat: no-repeat
+  background-position: center
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important 
+
+//BLOQUE TEXTO G
+.bloque-texto-ggg-imagen.color-primario
+  background-color: #D5F4F8
+.bloque-texto-gg.color-primario
+  background-color: #D5F4F8
+.bloque-texto-gg__img 
+  width: 25%
+  position: absolute
+  top: 0
+  left: 0
+  bottom: 0
+  background-position: center
+  background-size: cover
+
+.bloque-texto-gg__img2
+  width: 35%
+  position: absolute
+  top: 0
+  left: 0
+  bottom: 0
+  background-position: center
+  background-size: cover
+
+.bloque-texto-gg
+  position: relative
+  display: flex
+  justify-content: flex-end
+
+.bloque-texto-gg__texto
+  position: relative
+  width: 75%
+.bloque-texto-gg__texto2
+  position: relative
+  width: 65%
+  
+.bloque-texto-gg--inverso
+  justify-content: flex-start
+
+.bloque-texto-gg-imagen 
+  .bloque-texto-gg__img
+    width: 36%
+  
+  .bloque-texto-gg__texto
+    width: 60%
+
+.bloque-texto-gg
+  @media (max-width: $bp-max-md)
+    padding-top: 40% !important
+    &__img
+      width: 100% !important
+      height: 50%
+    &__texto
+      margin-top: 40px !important
+      width: 100% !important
+    &__img1
+      width: 100% !important
+      height: 50%
+    &__img2
+      width: 25% !important
+      height: 25%
+    &__texto1
+      margin-top: 40px !important
+      width: 100% !important
+    &__texto2
+      margin-top: 0px !important
+      width: 74% !important
+
+  @media (max-width: $bp-max-xs)
+    padding-top: 200px !important
+    &__img
+      height: 250px
+    &__img1
+      height: 250px
+    
+
+.bloque-texto-ggg
+  position: relative
+  display: flex
+  justify-content: flex-end
+
+.bloque-texto-ggg__texto
+  position: relative
+  width: 66%
+  
+
+.bloque-texto-gg--inverso 
+  .bloque-texto-gg__img
+    left: auto
+    right: 0
+.bloque-texto-gg__img1 
+  width: 50%
+  position: absolute
+  top: 0
+  left: 0
+  bottom: 0
+  background-position: center
+  background-size: cover
+.bloque-texto-gg__texto1
+  position: relative
+  width: 50%
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: rgba(255, 247, 230, 1) 
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+
+.fa-chevron-right, .fa-chevron-left
+  color:#580CE6 !important
+
+.lista-ol li, .lista-ol--cuadro li, .lista-ul li, .lista-ul--separador li, .lista-ul--color li 
+  display: flex
+
+.linea-tiempo-d__item__content__title
+  background-color:#EEE6FD
+
+    
+.tarjeta--azul
+  background-color: #EEE1E1
+
+.tarjeta--gris.linea-tiempo-d__item__number
+  background-color: $color-acento-botones
+  color: white !important
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: black !important
+
+.BG01
+  background-image: url("../assets/curso/temas/tema1/imgfondolinea.png")
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
