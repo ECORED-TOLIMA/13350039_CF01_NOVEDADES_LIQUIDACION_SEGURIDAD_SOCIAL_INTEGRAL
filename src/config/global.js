@@ -334,24 +334,75 @@ export default {
   ],
   creditos: [
     {
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Profesional G06. Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturistico - Regional Santander',
+        },
+        {
+          nombre: 'Diana Rocío Possos Beltrán',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+      ],
+    },
+    {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
           nombre: 'Gustavo Ernesto Mariño Puentes',
           cargo: 'Experto temático',
-          centro: 'Regional Tolima. Centro de Comercio y Servicios.',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Gloria Lida Alzate Suárez',
-          cargo: 'Evaluadora instruccional',
-          centro: 'Regional Tolima. Centro de Comercio y Servicios.',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Juan Daniel Polanco Muñoz',
+          cargo: 'Diseñador de contenidos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Veimar Celis Meléndez',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          cargo: 'Desarrollador <em>full stack</em>',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'María Fernanda Pineda Mora',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
   ],
   creditosAdicionales: {
     imagenes:
-      'Recursos gráficos suministrados por la plantilla base y los documentos fuente del componente formativo.',
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
