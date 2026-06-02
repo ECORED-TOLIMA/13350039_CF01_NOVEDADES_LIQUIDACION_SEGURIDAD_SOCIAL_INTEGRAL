@@ -124,8 +124,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema2/img20.svg', alt='Texto que describa la imagen')
-          
+              img(src='@/assets/curso/temas/tema2/img20.svg', alt='Texto que describa la imagen')          
         h5.text-center Libro Primero — Sistema General de Pensiones (SGP)
         p Regula los dos regímenes coexistentes de pensiones en Colombia: el Régimen de Prima Media con Prestación Definida (RPM), administrado exclusivamente por Colpensiones, y el Régimen de Ahorro Individual con Solidaridad (RAIS), administrado por los Fondos Privados de Pensiones (AFP) autorizados por la Superintendencia Financiera de Colombia. 
       .col-md.tarjeta.color-secundario.p-5
@@ -160,8 +159,12 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img24.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3 Salud (SGSSS)
+          .crd_hover_txt--body.crd_hover_txt--body1
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h5.mb-3 Salud (SGSSS)
             p.mb-0 Cotización total del 12,5 % del IBC. El empleador asume el 8,5 % y el trabajador el 4 %. Los empleadores cuya nómina sea inferior a diez salarios mínimos están exentos del aporte patronal del 8,5 %, conforme a la Ley 1607 de 2012.
 
       .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -169,8 +172,12 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img25.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3 Pensión (SGP)
+          .crd_hover_txt--body.crd_hover_txt--body1
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h5.mb-3 Pensión (SGP)
             p.mb-0 Cotización total del 16 % del IBC. El empleador asume el 12 % y el trabajador el 4 %. Los trabajadores con IBC superior a cuatro salarios mínimos deben realizar un aporte adicional del 1 % al Fondo de Solidaridad Pensional. Para IBC entre 16 y 25 salarios mínimos, el aporte adicional puede llegar hasta el 2 %. 
 
       .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -178,8 +185,12 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img26.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3 Riesgos Laborales (SGRL)
+          .crd_hover_txt--body.crd_hover_txt--body1
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h5.mb-3 Riesgos Laborales (SGRL)
             p.mb-0 El empleador asume el 100 % del aporte, que oscila entre el 0,522 % y el 6,960 % del IBC según la clase de riesgo asignada a la actividad económica de la empresa, distribuida en cinco niveles (Clase I a Clase V).
       
       .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -187,8 +198,12 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/img27.png", alt="alt")
-          .crd_hover_txt--body
-            h4.mb-3 Parafiscales
+          .crd_hover_txt--body.crd_hover_txt--body1
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h5.mb-3 Parafiscales
             p.mb-0 El empleador aporta el 9 % del total de la nómina, 4 % a la Caja de Compensación Familiar, 3 % al ICBF y 2 % al SENA. Los empleadores cuya nómina sea inferior a diez salarios mínimos están exentos de los aportes al ICBF y al SENA, conforme a la Ley 1607 de 2012.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -506,7 +521,7 @@
               p Modificó los requisitos para el reconocimiento de la pensión de invalidez en el Sistema General de Pensiones, estableciendo condiciones más estrictas en cuanto al número de semanas cotizadas en los períodos anteriores a la estructuración de la invalidez.
           .row(numero="3" titulo="Ley 1562 de 2012")
             .col-md-12.mb-4.mb-md-0
-              p introdujo reformas estructurales al SGRL, amplió la cobertura a los trabajadores independientes con contrato de prestación de servicios, actualizó las definiciones de accidente de trabajo y enfermedad laboral conforme a los estándares internacionales, fortaleció las obligaciones preventivas de empleadores y ARL, e introdujo el SG-SST como requisito obligatorio para todas las empresas. Adicionalmente, estableció que los empleadores que no afilien a sus trabajadores al SGRL deben asumir las prestaciones económicas y asistenciales que la ARL hubiera cubierto, eliminando la posibilidad de eludir esta responsabilidad.
+              p Introdujo reformas estructurales al SGRL, amplió la cobertura a los trabajadores independientes con contrato de prestación de servicios, actualizó las definiciones de accidente de trabajo y enfermedad laboral conforme a los estándares internacionales, fortaleció las obligaciones preventivas de empleadores y ARL, e introdujo el SG-SST como requisito obligatorio para todas las empresas. Adicionalmente, estableció que los empleadores que no afilien a sus trabajadores al SGRL deben asumir las prestaciones económicas y asistenciales que la ARL hubiera cubierto, eliminando la posibilidad de eludir esta responsabilidad.
           .row(numero="4" titulo="Decreto 1072 de 2015")
             .col-md-12.mb-4.mb-md-0
               p Decreto Único Reglamentario del Sector Trabajo. Compila las normas laborales y los requisitos mínimos del SG-SST que toda empresa debe implementar, con independencia de su tamaño o sector económico.

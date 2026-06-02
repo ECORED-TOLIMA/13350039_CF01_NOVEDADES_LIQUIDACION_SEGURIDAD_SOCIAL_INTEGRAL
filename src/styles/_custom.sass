@@ -85,7 +85,10 @@
 .bgfI02
   background-color: #D4FCEE
 
-
+.acordion__accion__btn--a, .acordion__accion__btn--b
+  background-color: #580CE6
+  color: white
+  border: solid 1px #580CE6
 ///////// T13 - Tarj1 --------------------------------------
 .crd_hover_txt
   position: relative  
@@ -95,7 +98,7 @@
     .crd_hover_txt--body   
       transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
       transform: translateY(0)
-      background-color: #68EAE0
+      background-color: #FEF5DE
     .ubicar 
       h5
         color: black !important
@@ -108,7 +111,7 @@
     bottom: 0    
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 3.85rem ))
-    background-color: #9C2424
+    background-color: #580CE6
     h5
       color: white !important
   
@@ -415,7 +418,20 @@
     bottom: 0    
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 3.85rem ))
-    background-color: rgba(255, 247, 230, 1) 
+    background-color: #580CE6
+  
+  .crd_hover_txt--body1
+    background-color: #EEE6FD
+    h5
+      color: black !important
+    .ubicar 
+      width: 115%
+      h5
+        text-align: center
+        margin-top: -30px
+      .acordion__accion.acordion__accion__btn--b.h3.mb-0
+        margin-top: -30px 
+        margin-left: -20px
   
   @media (min-width:1200px) and (max-width:1400px)  
     .crd_hover_txt--body

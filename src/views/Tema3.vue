@@ -41,7 +41,7 @@
           img(src='@/assets/curso/temas/tema3/img3.png' alt='AvatarTop') 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 3.1 Empleador y contratante
+      h2 3.1 Empleador y contratista
     p En el sistema de seguridad social colombiano no todos los responsables del pago de aportes tienen la misma naturaleza jurídica. La ley distingue dos figuras con obligaciones diferentes según el tipo de vínculo que establezcan con el trabajador o prestador de servicios:
     .row.justify-content-center.mb-4
       .col-lg-5
@@ -156,8 +156,7 @@
       .col-lg-10
         .p-4.bgf4
           p.MB-0 El proceso de afiliación a los cuatro componentes del sistema no debe entenderse como una serie de trámites independientes que se realizan en momentos distintos. Por el contrario, constituye un proceso integral que el empleador debe gestionar de manera simultánea desde el primer día de la relación laboral, garantizando que el trabajador quede protegido frente a cualquier contingencia de salud, pensión o riesgo laboral desde el momento exacto en que inicia sus funciones. La omisión o el retraso en cualquiera de estas afiliaciones deja al trabajador desprotegido y traslada al empleador la responsabilidad directa de asumir las prestaciones que el sistema hubiera cubierto.
-    p Una vez tramitadas las afiliaciones, el siguiente paso es determinar con exactitud cuánto debe aportar cada parte al sistema. Este cálculo no es arbitrario: la ley establece porcentajes precisos, define qué ingresos constituyen la base sobre la cual se liquidan los aportes y fija topes que limitan el monto máximo de cotización. 
-    p Comprender estos elementos con claridad es lo que permite al profesional de nómina liquidar correctamente los aportes, anticipar posibles inconsistencias y actuar con seguridad técnica frente a cualquier requerimiento de las entidades de control, aspectos que se abordan a continuación en la distribución de aportes, porcentajes, IBC y topes.                
+    p Una vez tramitadas las afiliaciones, el siguiente paso es determinar con exactitud cuánto debe aportar cada parte al sistema. Este cálculo no es arbitrario: la ley establece porcentajes precisos, define qué ingresos constituyen la base sobre la cual se liquidan los aportes y fija topes que limitan el monto máximo de cotización. Comprender estos elementos con claridad es lo que permite al profesional de nómina liquidar correctamente los aportes, anticipar posibles inconsistencias y actuar con seguridad técnica frente a cualquier requerimiento de las entidades de control, aspectos que se abordan a continuación en la distribución de aportes, porcentajes, IBC y topes.                
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.3 Distribución de aportes: porcentajes, IBC y topes
@@ -405,7 +404,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
       h5 Sanciones por incumplimiento y función de la UGPP
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img23.png')})`}"
       )
@@ -450,7 +449,11 @@
             figure
               img(src="@/assets/curso/temas/tema3/img28.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Requerimiento de información
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h5.mb-3 Requerimiento de información
             p.mb-0 La UGPP solicita documentación sobre la nómina y los aportes para un período específico. El empleador tiene un plazo legal para responder con los soportes requeridos.
 
       .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -459,7 +462,11 @@
             figure
               img(src="@/assets/curso/temas/tema3/img29.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Requerimiento de explicaciones
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h5.mb-3 Requerimiento de explicaciones
             p.mb-0 Si del análisis de la información se concluyen diferencias, la UGPP presenta las inconsistencias identificadas y da al empleador la oportunidad de explicarlas o corregirlas voluntariamente.
 
       .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -468,7 +475,11 @@
             figure
               img(src="@/assets/curso/temas/tema3/img30.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Liquidación oficial de revisión
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h5.mb-3 Liquidación oficial de revisión
             p.mb-0 Cuando las explicaciones no son satisfactorias, la UGPP expide este acto administrativo, que determina los aportes adeudados y constituye el título ejecutivo de cobro.
       
       .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -477,7 +488,11 @@
             figure
               img(src="@/assets/curso/temas/tema3/img31.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Recursos de ley
+            .tit-tarj.p-3
+              .ubicar
+                .acordion__accion.acordion__accion__btn--b.h3.mb-0
+                  i.fas.fa-angle-up
+                h5.mb-3 Recursos de ley
             p.mb-0 Contra la liquidación oficial proceden los recursos de reposición y apelación en la vía administrativa y, de no prosperar, la acción ante la jurisdicción contencioso-administrativa.
     p Más allá de las actuaciones de la UGPP, el empleador que no cumpla con sus obligaciones de seguridad social puede enfrentar demandas laborales por parte de sus trabajadores, especialmente en casos de accidentes o enfermedades laborales durante períodos de no afiliación, investigaciones del Ministerio del Trabajo que pueden resultar en multas adicionales, y en casos extremos, responsabilidad penal por omisión del agente retenedor. 
     .row.justify-content-center.align-items-center.mb-4

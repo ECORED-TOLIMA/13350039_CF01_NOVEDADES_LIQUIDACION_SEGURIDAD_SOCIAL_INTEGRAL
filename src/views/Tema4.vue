@@ -131,7 +131,7 @@
                 img(src='@/assets/curso/temas/tema4/img12.png', alt='Gráfico ilustrativo de uso de programa')
           .row
             .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1
-              p Responsabilidad solidaria del contratante: obligación legal de verificar que el contratista haya pagado sus aportes al sistema antes de cada desembolso de honorarios. El incumplimiento de esta verificación puede derivar en que la UGPP declare al contratante solidariamente responsable por la totalidad de los aportes omitidos por el contratista, más los intereses moratorios causados.
+              p Responsabilidad solidaria del contratante: obligación legal de verificar que el contratista haya pagado sus aportes al sistema antes de cada desembolso de honorarios. El incumplimiento de esta verificación puede derivar en que la UGPP declare al contratante solidariamente responsable por la totalidad de los aportes omitidos por el contratista, más los intereses moratorios causados.
             .col-lg-6.mb-4.mb-lg-0.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema4/img13.png', alt='Gráfico ilustrativo de uso de programa')

@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Normativa y novedades en seguridad social integral',
     Description:
-      'Este componente formativo aborda los fundamentos normativos del Sistema de Seguridad Social Integral en Colombia, los tipos de contrato que originan obligaciones frente al sistema, los procesos de afiliación obligatoria, la distribución de los aportes y el manejo correcto de las novedades de nómina que inciden en la liquidación.',
+      'Este componente formativo aborda los fundamentos normativos del Sistema de Seguridad Social Integral en Colombia, los tipos de contrato que originan obligaciones frente al sistema, los procesos de afiliación obligatoria, la distribución de los aportes y el manejo correcto de las novedades de nómina que inciden en la liquidación. Prepara al aprendiz para identificar, validar y aplicar la normativa vigente en situaciones laborales reales, garantizando el cumplimiento de las obligaciones legales del empleador o contratante.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -108,7 +108,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Empleador y contratante',
+            titulo: 'Empleador y contratista',
             hash: 't_3_1',
           },
           {
@@ -258,77 +258,77 @@ export default {
   referencias: [
     {
       referencia:
-        'Arenas Monsalve, G. (2011). El derecho colombiano de la seguridad social (3.ª ed.). Legis Editores.',
+        'Arenas Monsalve, G. (2011). <em>El derecho colombiano de la seguridad social (3.ª ed.)</em>. Legis Editores.',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (1993). Ley 100 de 1993: por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Diario Oficial N.º 41.148.',
+        'Congreso de la República de Colombia. (1993). <em>Ley 100 de 1993: por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones</em>. Diario Oficial N.º 41.148.',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2002). Ley 776 de 2002: por la cual se dictan normas sobre la organización, administración y prestaciones del Sistema General de Riesgos Profesionales. Diario Oficial N.º 45.037.',
+        'Congreso de la República de Colombia. (2002). <em>Ley 776 de 2002: por la cual se dictan normas sobre la organización, administración y prestaciones del Sistema General de Riesgos Profesionales</em>. Diario Oficial N.º 45.037.',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2003). Ley 860 de 2003: por la cual se reforman algunas disposiciones del Sistema General de Pensiones. Diario Oficial N.º 45.415.',
+        'Congreso de la República de Colombia. (2003). <em>Ley 860 de 2003: por la cual se reforman algunas disposiciones del Sistema General de Pensiones</em>. Diario Oficial N.º 45.415.',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2012). Ley 1562 de 2012: por la cual se modifica el Sistema de Riesgos Laborales y se dictan otras disposiciones en materia de Salud Ocupacional. Diario Oficial N.º 48.488.',
+        'Congreso de la República de Colombia. (2012). <em>Ley 1562 de 2012: por la cual se modifica el Sistema de Riesgos Laborales y se dictan otras disposiciones en materia de Salud Ocupacional</em>. Diario Oficial N.º 48.488.',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2017). Ley 1822 de 2017: por medio de la cual se incentiva la adecuada atención y cuidado de la primera infancia y se modifica el artículo 236 del Código Sustantivo del Trabajo. Diario Oficial N.º 50.117.',
+        'Congreso de la República de Colombia. (2017). <em>Ley 1822 de 2017: por medio de la cual se incentiva la adecuada atención y cuidado de la primera infancia y se modifica el artículo 236 del Código Sustantivo del Trabajo</em>. Diario Oficial N.º 50.117.',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2019). Ley 1955 de 2019: por el cual se expide el Plan Nacional de Desarrollo 2018-2022 Pacto por Colombia, Pacto por la Equidad. Diario Oficial N.º 50.964.',
+        'Congreso de la República de Colombia. (2019). <em>Ley 1955 de 2019: por el cual se expide el Plan Nacional de Desarrollo 2018-2022 Pacto por Colombia, Pacto por la Equidad</em>. Diario Oficial N.º 50.964.',
       link: '',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (2021). Ley 2114 de 2021: por medio de la cual se amplía la licencia de paternidad, se regula la licencia parental compartida y la licencia parental flexible de tiempo parcial. Diario Oficial N.º 51.797.',
+        'Congreso de la República de Colombia. (2021). <em>Ley 2114 de 2021: por medio de la cual se amplía la licencia de paternidad, se regula la licencia parental compartida y la licencia parental flexible de tiempo parcial</em>. Diario Oficial N.º 51.797.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2016). Decreto 780 de 2016: por medio del cual se expide el Decreto Único Reglamentario del Sector Salud y Protección Social.',
+        'Ministerio de Salud y Protección Social. (2016). <em>Decreto 780 de 2016: por medio del cual se expide el Decreto Único Reglamentario del Sector Salud y Protección Social</em>.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2024). Cartilla de instrucciones PILA.',
+        'Ministerio de Salud y Protección Social. (2024). <em>Cartilla de instrucciones PILA</em>.',
       link: '',
     },
     {
       referencia:
-        'Ministerio del Trabajo. (2015). Decreto 1072 de 2015: por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo.',
+        'Ministerio del Trabajo. (2015). <em>Decreto 1072 de 2015: por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo</em>.',
       link: '',
     },
     {
       referencia:
-        'Ministerio del Trabajo. (2016). Decreto 1833 de 2016: por medio del cual se compilan las normas del Sistema General de Pensiones.',
+        'Ministerio del Trabajo. (2016).<em> Decreto 1833 de 2016: por medio del cual se compilan las normas del Sistema General de Pensiones</em>.',
       link: '',
     },
     {
       referencia:
-        'Organización Internacional del Trabajo (OIT). (2019). Hechos concretos sobre la seguridad social.',
+        'Organización Internacional del Trabajo (OIT). (2019). <em>Hechos concretos sobre la seguridad social</em>.',
       link: '',
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (1951). Decreto-Ley 2663 de 1950: Código Sustantivo del Trabajo. Diario Oficial N.º 27.622.',
+        'Presidencia de la República de Colombia. (1951). <em>Decreto-Ley 2663 de 1950: Código Sustantivo del Trabajo</em>. Diario Oficial N.º 27.622.',
       link: '',
     },
     {
       referencia:
-        'Unidad de Gestión Pensional y Parafiscal. (2023). Guía del proceso de fiscalización. UGPP.',
+        'Unidad de Gestión Pensional y Parafiscal. (2023). <em>Guía del proceso de fiscalización</em>. UGPP.',
       link: '',
     },
   ],

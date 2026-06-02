@@ -701,7 +701,7 @@
           .col-6
             img(src='@/assets/curso/temas/tema1/img66.svg' alt='AvatarTop')
         h5.text-center Exclusividad en la prestación del servicio
-        p.text-center Edicación total a un único contratante sin posibilidad de atender otros clientes de manera simultánea, lo que genera una dependencia económica y operativa incompatible con la autonomía del contratista. 
+        p.text-center Dedicación  total a un único contratante sin posibilidad de atender otros clientes de manera simultánea, lo que genera una dependencia económica y operativa incompatible con la autonomía del contratista. 
       .tarjeta.p-4.BG04
         .row.justify-content-center.mb-3
           .col-6
