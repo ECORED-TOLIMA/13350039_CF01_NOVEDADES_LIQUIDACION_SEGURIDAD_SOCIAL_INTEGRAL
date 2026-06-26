@@ -263,7 +263,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img14.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
             .col-lg-10
-              p.mb-0 Una vez comprendida esta distribución y los porcentajes aplicables a cada componente del sistema, el siguiente reto del profesional de nómina es garantizar que los eventos que modifican la situación laboral del trabajador durante el período de liquidación queden correctamente registrados y reportados en la PILA. Estos eventos, denominados novedades, determinan el IBC real de cada período, activan o suspenden coberturas y definen quién asume el pago de las prestaciones correspondientes. Su manejo preciso es lo que distingue una liquidación rigurosa de una que expone a la organización a riesgos innecesarios frente a las entidades de control.        
+              p.mb-0 Una vez comprendida esta distribución y los porcentajes aplicables a cada componente del sistema, el siguiente reto del profesional de nómina es garantizar que los eventos que modifican la situación laboral del trabajador durante el período de liquidación queden correctamente registrados y reportados en la PILA. Estos eventos, denominados #[b novedades], determinan el IBC real de cada período, activan o suspenden coberturas y definen quién asume el pago de las prestaciones correspondientes. Su manejo preciso es lo que distingue una liquidación rigurosa de una que expone a la organización a riesgos innecesarios frente a las entidades de control.        
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src="@/assets/curso/temas/tema3/img15.png", alt="alt")

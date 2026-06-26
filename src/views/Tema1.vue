@@ -134,36 +134,44 @@
               tbody
                 tr(style="background-color: #FBF7F1;")
                   th Naturaleza jurídica
-                  td Laboral: regido por el CST (Decreto 2663/1950). 
-                    | Prestación de servicios: regido por el Código Civil y Comercial.
+                  td
+                    p #[b Laboral]: regido por el CST (Decreto 2663/1950). 
+                    p #[b Prestación de servicios]: regido por el Código Civil y Comercial.
                 tr
                   th Subordinación
-                  td Laboral: el empleador dirige, supervisa y controla al trabajador. 
-                    | Prestación de servicios: el contratista actúa con plena autonomía técnica y directiva.
+                  td 
+                    p #[b Laboral]: el empleador dirige, supervisa y controla al trabajador. 
+                    p #[b Prestación de servicios]: el contratista actúa con plena autonomía técnica y directiva.
                 tr(style="background-color: #FBF7F1;")
                   th Remuneración
-                  td Laboral: salario (mínimo 1 SMLMV). 
-                    | Prestación de servicios: honorarios libremente pactados entre las partes.
+                  td 
+                    p #[b Laboral]: salario (mínimo 1 SMLMV). 
+                    p #[b Prestación de servicios]: honorarios libremente pactados entre las partes.
                 tr
                   th Prestaciones sociales
-                  td Laboral: prima, cesantías, intereses sobre cesantías, vacaciones.
-                   | Prestación de servicios: no genera prestaciones sociales.
+                  td 
+                    p #[b Laboral]: prima, cesantías, intereses sobre cesantías, vacaciones.
+                    p #[b restación de servicios]: no genera prestaciones sociales.
                 tr(style="background-color: #FBF7F1;")
                   th Distribución de aportes SS
-                  td Laboral: empleador asume 8.5% salud y 12% pensión; trabajador asume 4% salud y 4% pensión.
-                    | Prestación de servicios: el contratista asume el 100%.
+                  td 
+                    p #[b Laboral]: empleador asume 8.5% salud y 12% pensión; trabajador asume 4% salud y 4% pensión.
+                    p #[b Prestación de servicios]: el contratista asume el 100%.
                 tr
                   th Base de cotización
-                  td Laboral: sobre el salario devengado (mín. 1 SMLMV, máx. 25 SMLMV). 
-                    | Prestación de servicios: sobre el 40% del valor mensualizado del contrato.
+                  td 
+                    p #[b Laboral]: sobre el salario devengado (mín. 1 SMLMV, máx. 25 SMLMV). 
+                    p #[b Prestación de servicios]: sobre el 40% del valor mensualizado del contrato.
                 tr(style="background-color: #FBF7F1;")
                   th ARL
-                  td Laboral: la afiliación y el 100% del aporte son obligación del empleador. 
-                    | Prestación de servicios: según actividad; puede ser del contratante o del contratista.
+                  td 
+                    p #[b Laboral]: la afiliación y el 100% del aporte son obligación del empleador. 
+                    p #[b Prestación de servicios]: según actividad; puede ser del contratante o del contratista.
                 tr
                   th Terminación anticipada
-                  td Laboral: puede generar indemnización según el artículo 64 del CST.
-                    | Prestación de servicios: se pagan honorarios causados más perjuicios demostrables.
+                  td 
+                    p #[b Laboral]: puede generar indemnización según el artículo 64 del CST.
+                    p #[b Prestación de servicios]: se pagan honorarios causados más perjuicios demostrables.
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.1 Concepto y elementos esenciales
@@ -172,7 +180,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/img16.png", alt="alt") 
       .col-lg-9
-        p El artículo 22 del Código Sustantivo del Trabajo define el contrato de trabajo como aquel por el cual una persona natural se obliga a prestar un servicio personal a otra persona natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante remuneración. Esta definición legal condensa los tres elementos que la doctrina y la jurisprudencia han identificado como condición sine qua non, es decir, como requisitos indispensables sin los cuales no puede reconocerse la existencia del contrato laboral:
+        p El artículo 22 del Código Sustantivo del Trabajo define el contrato de trabajo como aquel por el cual una persona natural se obliga a prestar un servicio personal a otra persona natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante remuneración. Esta definición legal condensa los tres elementos que la doctrina y la jurisprudencia han identificado como condición #[b sine qua non], es decir, como requisitos indispensables sin los cuales no puede reconocerse la existencia del contrato laboral:
         .row.justify-content-center.align-items-center
           .col-lg-4
             .p-4.bgf3
@@ -270,8 +278,8 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img24.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Es fundamental comprender que el artículo 23 del CST establece la presunción de que, si concurren los tres elementos descritos, el contrato es de trabajo y no deja de serlo por razón del nombre que le den las partes ni de otras condiciones o modalidades que se le agreguen. Esta disposición es el fundamento del principio del contrato realidad y constituye la herramienta jurídica más poderosa para proteger los derechos de los trabajadores que han sido vinculados bajo figuras civiles o comerciales que encubren verdaderas relaciones laborales. El profesional de nómina que identifica correctamente estos elementos contribuye decisivamente a la protección de los derechos laborales y a la prevención de contingencias jurídicas en la organización.
-    p Adicionalmente, el período de prueba merece una mención especial dentro del contrato de trabajo. Según el artículo 76 del Código Sustantivo del Trabajo (CST), este período no puede exceder de dos meses y permite que cualquiera de las partes termine el contrato sin previo aviso ni indemnización. Sin embargo, esta condición no suspende los derechos del trabajador frente al Sistema de Seguridad Social Integral.
+        p.mb-0 Es fundamental comprender que el artículo 23 del CST establece la presunción de que, si concurren los tres elementos descritos, el contrato es de trabajo y no deja de serlo por razón del nombre que le den las partes ni de otras condiciones o modalidades que se le agreguen. Esta disposición es el fundamento del principio del #[b contrato realidad] y constituye la herramienta jurídica más poderosa para proteger los derechos de los trabajadores que han sido vinculados bajo figuras civiles o comerciales que encubren verdaderas relaciones laborales. El profesional de nómina que identifica correctamente estos elementos contribuye decisivamente a la protección de los derechos laborales y a la prevención de contingencias jurídicas en la organización.
+    p Adicionalmente, el #[b período de prueba] merece una mención especial dentro del contrato de trabajo. Según el artículo 76 del Código Sustantivo del Trabajo (CST), este período no puede exceder de #[b dos meses] y permite que cualquiera de las partes termine el contrato sin previo aviso ni indemnización. Sin embargo, esta condición no suspende los derechos del trabajador frente al Sistema de Seguridad Social Integral.
     p Durante el período de prueba, se deben garantizar las siguientes obligaciones:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4
@@ -621,7 +629,7 @@
         .tarjeta.p-4(style="background-color:#FAF2DF; border-radius: 0 0 20px 20px;")
           .tarjeta.bg-white.p-4.custom-audio-card
             TarjetaAudio.color-acento-botones(
-              texto="POSTCAT"
+              texto="El contrato de prestación de servicios y la seguridad social"
               :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
@@ -728,12 +736,12 @@
           img(src='@/assets/curso/temas/tema1/img70.svg' alt='AvatarTop')
       .col-lg-8
         p Desde la perspectiva de la gestión de la seguridad social, el principio del contrato realidad obliga al profesional de nómina y al área de recursos humanos a revisar periódicamente los contratos de prestación de servicios vigentes para detectar situaciones que puedan configurar este principio. La regularización oportuna de las situaciones identificadas, transformando los contratos civiles en laborales cuando corresponda y realizando las afiliaciones y los pagos retroactivos necesarios, puede reducir significativamente el impacto financiero frente a una eventual investigación de la UGPP o una demanda laboral. La prevención es siempre menos costosa que la corrección de incumplimientos ya consolidados en el tiempo.
-    p El siguiente caso práctico permite dimensionar las consecuencias económicas y jurídicas que puede enfrentar una organización cuando clasifica de manera incorrecta el tipo de contrato que vincula a una persona con la empresa. La situación que se describe reproduce un escenario frecuente en los juzgados laborales colombianos y tiene como propósito que el aprendiz identifique los indicios de subordinación, calcule el impacto económico del incumplimiento y reconozca las acciones preventivas que habrían evitado la condena:
+    p El siguiente #[b caso práctico] permite dimensionar las consecuencias económicas y jurídicas que puede enfrentar una organización cuando clasifica de manera incorrecta el tipo de contrato que vincula a una persona con la empresa. La situación que se describe reproduce un escenario frecuente en los juzgados laborales colombianos y tiene como propósito que el aprendiz identifique los indicios de subordinación, calcule el impacto económico del incumplimiento y reconozca las acciones preventivas que habrían evitado la condena:
     .BG01.px-5
       LineaTiempoE.color-primario.mb-4
         .row(titulo="A.")
           .col-lg.mb-4.mb-lg-0
-            p Datos del caso
+            h5 Datos del caso
             p Una empresa del sector servicios mantiene vinculado a un profesional mediante contrato de prestación de servicios durante cinco años consecutivos. Durante ese período, el contratista ejecuta funciones de asistente administrativo con las siguientes condiciones:
             ul.lista-ul.mb-0
               li.mb-0
@@ -753,7 +761,7 @@
                 | Exclusividad total: no presta servicios a ningún otro cliente.
         .row(titulo="B.")
           .col-lg.mb-4.mb-lg-0
-            p Indicios de subordinación identificados
+            h5 Indicios de subordinación identificados
             p Al revisar las condiciones de la relación, los jueces laborales y la UGPP identifican la concurrencia de los siguientes indicios que configuran el contrato realidad:
             ul.lista-ul.mb-0
               li.mb-0
@@ -773,7 +781,7 @@
                 | Pagos periódicos fijos equivalentes a un salario. 
         .row(titulo="C.")
           .col-lg.mb-4.mb-lg-0
-            p Impacto económico para la empresa
+            h5 Impacto económico para la empresa
             p Con un salario mensual de $3.000.000 y cinco años de relación laboral encubierta, la liquidación judicial incluye:
             ul.lista-ul.mb-0
               li.mb-0
@@ -796,7 +804,7 @@
                 | Honorarios de abogados y costos procesales: entre uno y cinco SMLMV por agencias en derecho, más entre el 10 % y el 20 % del valor de las pretensiones reconocidas, conforme a la Ley 1564 de 2012 y el Acuerdo PSAA16-10554 del Consejo Superior de la Judicatura.
         .row(titulo="D.")
           .col-lg.mb-4.mb-lg-0
-            p Lección aprendida
+            h5 Lección aprendida
             p Este escenario se repite con frecuencia en los juzgados laborales colombianos y es completamente prevenible. Las tres acciones que habrían evitado la condena son:
             ul.lista-ul.mb-0
               li.mb-0

@@ -8,7 +8,7 @@
       h1 Normativa del sistema de seguridad social integral
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-2.order-lg-1
-        p El Sistema de Seguridad Social Integral en Colombia constituye uno de los pilares fundamentales del Estado social de derecho, garantizando la protección de los trabajadores frente a los riesgos derivados de la enfermedad, la vejez, la invalidez, la muerte y los accidentes laborales. Su fundamento constitucional se encuentra en los artículos 48 y 49 de la Constitución Política de 1991, que consagran la seguridad social como un derecho irrenunciable y un servicio público de carácter obligatorio, señalando que el Estado, con la participación de los particulares, ampliará progresivamente su cobertura para garantizar el bienestar de todos los colombianos.
+        p El Sistema de Seguridad Social Integral en Colombia constituye uno de los pilares fundamentales del Estado social de derecho, garantizando la protección de los trabajadores frente a los riesgos derivados de #[b la enfermedad, la vejez, la invalidez, la muerte y los accidentes laborales]. Su fundamento constitucional se encuentra en los artículos 48 y 49 de la Constitución Política de 1991, que consagran la seguridad social como un derecho irrenunciable y un servicio público de carácter obligatorio, señalando que el Estado, con la participación de los particulares, ampliará progresivamente su cobertura para garantizar el bienestar de todos los colombianos.
         .p-4.bgf1
           .row.justify-content-center.align-items-center
             .col-lg-auto.d-none.d-lg-block
