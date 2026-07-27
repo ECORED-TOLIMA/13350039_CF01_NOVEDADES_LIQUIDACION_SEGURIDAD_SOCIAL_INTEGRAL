@@ -178,7 +178,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA1_13350039_DU.pdf',
+        download: 'downloads/CF1_13350039_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -202,57 +202,57 @@ export default {
     {
       termino: 'ARL (Administradora de Riesgos Laborales)',
       significado:
-        'Entidad que administra el Sistema General de Riesgos Laborales y cubre las contingencias por accidentes de trabajo y enfermedades laborales.',
+        'entidad que administra el Sistema General de Riesgos Laborales y cubre las contingencias por accidentes de trabajo y enfermedades laborales. Asesora a las empresas en la implementación del Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST).',
     },
     {
       termino: 'Contrato de prestación de servicios',
       significado:
-        'Acuerdo civil mediante el cual una persona ejecuta una actividad con plena autonomía, sin subordinación y asumiendo el 100 % de sus aportes al sistema.',
+        'acuerdo civil mediante el cual una persona ejecuta una actividad con plena autonomía, sin subordinación y asumiendo el 100 % de sus aportes al sistema. El Ingreso Base de Cotización corresponde al 40 % del valor mensualizado del contrato.',
     },
     {
       termino: 'Contrato laboral',
       significado:
-        'Acuerdo regulado por el Código Sustantivo del Trabajo en el que concurren prestación personal del servicio, subordinación y remuneración.',
+        'acuerdo regulado por el Código Sustantivo del Trabajo en el que concurren prestación personal del servicio, subordinación y remuneración. Genera la obligación del empleador de afiliar al trabajador al sistema de seguridad social desde el primer día.',
     },
     {
       termino: 'Contrato realidad',
       significado:
-        'Principio que protege al trabajador vinculado mediante figuras civiles que encubren una relación laboral. Si concurren los elementos esenciales, la relación se entiende laboral sin importar su denominación.',
+        'principio consagrado en el artículo 23 del Código Sustantivo del Trabajo que protege al trabajador vinculado mediante figuras civiles que encubren una relación laboral. Si en la práctica concurren los tres elementos esenciales, la relación se entiende laboral sin importar la denominación del acuerdo.',
     },
     {
       termino: 'EPS (Entidad Promotora de Salud)',
       significado:
-        'Entidad que administra el régimen contributivo de salud y garantiza a los afiliados el acceso al Plan de Beneficios en Salud.',
+        'entidad que administra el régimen contributivo de salud y garantiza a los afiliados el acceso al Plan de Beneficios en Salud (PBS). La cobertura se presta a través de la red de Instituciones Prestadoras de Servicios (IPS) habilitadas en el territorio nacional.',
     },
     {
       termino: 'IBC (Ingreso Base de Cotización)',
       significado:
-        'Valor mensual sobre el que se aplican los porcentajes de aporte al sistema de seguridad social.',
+        'valor mensual sobre el que se aplican los porcentajes de aporte al sistema de seguridad social. Para trabajadores dependientes es el salario devengado (mín. 1 SMLMV, máx. 25 SMLMV); para independientes, el 40 % del valor mensual del contrato.',
     },
     {
       termino: 'PILA (Planilla Integrada de Liquidación de Aportes)',
       significado:
-        'Mecanismo electrónico obligatorio para el pago unificado de los aportes al sistema de seguridad social y parafiscales en Colombia.',
+        'mecanismo electrónico obligatorio para el pago unificado de los aportes al sistema de seguridad social y parafiscales en Colombia. Es obligatoria para todos los empleadores y trabajadores independientes que devenguen ingresos iguales o superiores a 1 SMLMV.',
     },
     {
       termino: 'Seguridad social integral',
       significado:
-        'Sistema colombiano de instituciones, normas y procedimientos establecido por la Ley 100 de 1993 para proteger a los trabajadores frente a contingencias de enfermedad, invalidez, vejez y muerte.',
+        'sistema colombiano de instituciones, normas y procedimientos establecido por la Ley 100 de 1993 para proteger a los trabajadores frente a contingencias de enfermedad, invalidez, vejez y muerte. Opera bajo los principios de universalidad, solidaridad, integralidad, unidad y participación.',
     },
     {
       termino: 'SMLMV (Salario Mínimo Legal Mensual Vigente)',
       significado:
-        'Valor mínimo de remuneración que el Gobierno Nacional fija cada año mediante decreto para todos los trabajadores colombianos.',
+        'valor mínimo de remuneración que el Gobierno Nacional fija cada año mediante decreto para todos los trabajadores colombianos. Constituye el límite mínimo del IBC y la base de referencia para el cálculo de prestaciones sociales y aportes al sistema.',
     },
     {
       termino: 'Subordinación',
       significado:
-        'Elemento esencial del contrato de trabajo; facultad del empleador de impartir instrucciones sobre el modo, el tiempo y el lugar de prestación del servicio.',
+        'elemento esencial del contrato de trabajo; facultad del empleador de impartir instrucciones sobre el modo, el tiempo y el lugar de prestación del servicio. Incluye el ejercicio del control disciplinario sobre el trabajador conforme al artículo 23 del Código Sustantivo del Trabajo.',
     },
     {
       termino: 'UGPP (Unidad de Gestión Pensional y Parafiscal)',
       significado:
-        'Entidad del Estado colombiano que determina y cobra los aportes al sistema de protección social no pagados correctamente.',
+        'entidad del Estado colombiano adscrita al Ministerio de Hacienda que determina y cobra los aportes al sistema de protección social no pagados correctamente. Cuenta con facultad de investigar hasta cinco años hacia atrás mediante cruce de información con la DIAN, las EPS, las AFP y las ARL.',
     },
   ],
   referencias: [
@@ -340,7 +340,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
-          centro: 'Centro Agroturistico - Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Diana Rocío Possos Beltrán',
@@ -379,7 +379,7 @@ export default {
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animador y productor audiovisual',
+          cargo: 'Animador y productor multimedia',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -388,13 +388,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jorge Eduardo Rueda Peña  ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Maria Fernanda Pineda Mora',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],

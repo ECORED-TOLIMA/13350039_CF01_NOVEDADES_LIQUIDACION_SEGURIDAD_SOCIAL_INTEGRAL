@@ -54,7 +54,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El artículo 22 del CST establece que el contrato de trabajo exige prestación personal del servicio, subordinación y remuneración.',
+            'El artículo 22 del CST establece que el contrato de trabajo exige prestación personal del servicio, subordinación y remuneración.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -90,7 +90,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El principio del contrato realidad protege al trabajador vinculado mediante figuras civiles.',
+            'El principio del contrato realidad protege al trabajador vinculado mediante figuras civiles.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -107,7 +107,7 @@ export default {
             { id: 'd', texto: 'El contratista.', esCorrecta: true },
           ],
           mensaje_correcto:
-            '¡Correcto! En el contrato de prestación de servicios no hay subordinación ni empleador.',
+            'En el contrato de prestación de servicios no hay subordinación ni empleador.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -140,7 +140,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El IBC del contratista independiente es el 40 % del valor mensualizado del contrato.',
+            'El IBC del contratista independiente es el 40 % del valor mensualizado del contrato.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -157,7 +157,7 @@ export default {
             { id: 'd', texto: 'Ley 1562 de 2012.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La Ley 100 de 1993 creó el Sistema de Seguridad Social Integral en Colombia.',
+            'La Ley 100 de 1993 creó el Sistema de Seguridad Social Integral en Colombia.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -190,7 +190,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La Ley 100 de 1993 estructura el sistema en salud, pensiones y riesgos laborales.',
+            'La Ley 100 de 1993 estructura el sistema en salud, pensiones y riesgos laborales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -207,7 +207,7 @@ export default {
             { id: 'd', texto: '16%.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El empleador aporta el 12 % del IBC a pensión y el trabajador el 4 %.',
+            'El empleador aporta el 12 % del IBC a pensión y el trabajador el 4 %.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -241,7 +241,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El IBC es la base sobre la cual se calculan los aportes a salud, pensión y ARL.',
+            'El IBC es la base sobre la cual se calculan los aportes a salud, pensión y ARL.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -270,7 +270,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La PILA es el mecanismo electrónico obligatorio para pagar aportes a salud, pensión, ARL y parafiscales.',
+            'La PILA es el mecanismo electrónico obligatorio para pagar aportes a salud, pensión, ARL y parafiscales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -295,7 +295,7 @@ export default {
             { id: 'd', texto: 'Novedad de ingreso (ING).', esCorrecta: true },
           ],
           mensaje_correcto:
-            '¡Correcto! El código ING activa la cobertura del sistema desde la fecha indicada en la PILA.',
+            'El código ING activa la cobertura del sistema desde la fecha indicada en la PILA.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -320,7 +320,7 @@ export default {
             { id: 'd', texto: 'El Ministerio de Salud.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La UGPP fiscaliza el correcto pago de aportes y puede investigar mediante cruce de información.',
+            'La UGPP fiscaliza el correcto pago de aportes y puede investigar mediante cruce de información.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -357,7 +357,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El empleador debe afiliar al trabajador a EPS, AFP y ARL desde el primer día de trabajo.',
+            'El empleador debe afiliar al trabajador a EPS, AFP y ARL desde el primer día de trabajo.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -374,7 +374,7 @@ export default {
             { id: 'd', texto: 'Cinco años.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El contrato a término fijo puede celebrarse por máximo tres años y es renovable indefinidamente.',
+            'El contrato a término fijo puede celebrarse por máximo tres años y es renovable indefinidamente.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -408,7 +408,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Sin el preaviso de 30 días, el contrato a término fijo se prorroga automáticamente.',
+            'Sin el preaviso de 30 días, el contrato a término fijo se prorroga automáticamente.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -438,7 +438,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El empleador debe afiliar al trabajador a EPS, AFP o Colpensiones, ARL y caja de compensación familiar.',
+            'El empleador debe afiliar al trabajador a EPS, AFP o Colpensiones, ARL y caja de compensación familiar.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -449,13 +449,13 @@ export default {
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '8%.', esCorrecta: false },
-            { id: 'b', texto: '10%.', esCorrecta: false },
-            { id: 'c', texto: '12,5%.', esCorrecta: true },
-            { id: 'd', texto: '16%.', esCorrecta: false },
+            { id: 'a', texto: '8 %.', esCorrecta: false },
+            { id: 'b', texto: '10 %.', esCorrecta: false },
+            { id: 'c', texto: '12,5 %.', esCorrecta: true },
+            { id: 'd', texto: '16 %.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La cotización al SGSSS es del 12,5 % del IBC: 8,5 % del empleador y 4 % del trabajador.',
+            'La cotización al SGSSS es del 12,5 % del IBC: 8,5 % del empleador y 4 % del trabajador.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -472,7 +472,7 @@ export default {
             { id: 'd', texto: 'Ley 79 de 1988.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La Ley 1562 de 2012 reformó el SGRL y amplió su cobertura a contratistas independientes.',
+            'La Ley 1562 de 2012 reformó el SGRL y amplió su cobertura a contratistas independientes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -489,7 +489,7 @@ export default {
             { id: 'd', texto: 'ING.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El código IGE aplica para incapacidades por enfermedad general.',
+            'El código IGE aplica para incapacidades por enfermedad general.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -523,7 +523,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El RPM es administrado por Colpensiones y el RAIS por las AFP privadas.',
+            'El RPM es administrado por Colpensiones y el RAIS por las AFP privadas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -558,7 +558,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La UGPP puede liquidar aportes omitidos con intereses moratorios y sanciones por inexactitud.',
+            'La UGPP puede liquidar aportes omitidos con intereses moratorios y sanciones por inexactitud.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

@@ -9,22 +9,22 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-8.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema3/img1.png' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img1.png' alt='')
       .col-lg-9
         p Las obligaciones del empleador o contratante frente al Sistema de Seguridad Social Integral constituyen uno de los pilares del marco normativo laboral colombiano. Desde el inicio de la relación laboral o contractual, el empleador adquiere la responsabilidad de garantizar que el trabajador quede vinculado al sistema, cumpliendo con los procesos de afiliación y realizando oportunamente los aportes que le corresponden. El incumplimiento de estas obligaciones no solo afecta los derechos fundamentales de los trabajadores, sino que expone al empleador a sanciones económicas, investigaciones administrativas y responsabilidades civiles y penales que pueden comprometer seriamente la estabilidad financiera de la organización.
         .p-4.bgf1
           .row.justify-content-center.align-items-center
             .col-lg-auto.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema3/img2.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                img(src='@/assets/curso/temas/tema3/img2.svg', style="width:70px", alt='').mb-2
             .col-lg-10
-              p.mb-0 La comprensión integral de estas obligaciones requiere analizar tres dimensiones interrelacionadas, quién es el responsable, qué debe hacerse y cuándo deben cumplirse los plazos legales de afiliación, las fechas límite de la PILA y la oportunidad en el reporte de novedades. El dominio de estas tres dimensiones es lo que distingue al profesional competente en novedades y liquidación de seguridad social de quien simplemente ejecuta tareas rutinarias sin comprender el marco normativo que las sustenta.
+              p.mb-0 La comprensión integral de estas obligaciones requiere analizar tres dimensiones interrelacionadas: quién es el responsable, qué debe hacerse y cuándo deben cumplirse los plazos legales de afiliación, las fechas límite de la PILA y la oportunidad en el reporte de novedades. El dominio de estas tres dimensiones es lo que distingue al profesional competente en novedades y liquidación de seguridad social de quien simplemente ejecuta tareas rutinarias sin comprender el marco normativo que las sustenta.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-4
           .row(titulo="Quién es el responsable")
             .col-lg
-              p No toda vinculación laboral genera las mismas obligaciones. La naturaleza del vínculo ya sea contrato de trabajo o contrato de prestación de servicios, determina quién asume la responsabilidad de afiliar, liquidar y pagar los aportes, así como las consecuencias jurídicas que se derivan del incumplimiento en cada caso.
+              p No toda vinculación laboral genera las mismas obligaciones. La naturaleza del vínculo, ya sea contrato de trabajo o contrato de prestación de servicios, determina quién asume la responsabilidad de afiliar, liquidar y pagar los aportes, así como las consecuencias jurídicas que se derivan del incumplimiento en cada caso.
           .row(titulo="Qué debe hacerse")
             .col-lg
               p El empleador debe tramitar la afiliación del trabajador a los cuatro componentes del sistema desde el primer día de la relación laboral, liquidar correctamente los aportes sobre el IBC que corresponde a cada trabajador y reportar oportunamente todas las novedades que afecten la vinculación, el salario o la situación del trabajador frente al sistema.
@@ -38,29 +38,29 @@
           p.mb-0 En las secciones siguientes se desarrolla cada una de estas obligaciones con el nivel de detalle necesario para que puedan aplicarse correctamente en situaciones laborales reales. Se identifican los riesgos asociados a su incumplimiento y se presentan las buenas prácticas que permiten al empleador cumplir de manera responsable con sus deberes frente al sistema de seguridad social colombiano.
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
-          img(src='@/assets/curso/temas/tema3/img3.png' alt='AvatarTop') 
+          img(src='@/assets/curso/temas/tema3/img3.png' alt='') 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.1 Empleador y contratista
-    p En el sistema de seguridad social colombiano no todos los responsables del pago de aportes tienen la misma naturaleza jurídica. La ley distingue dos figuras con obligaciones diferentes según el tipo de vínculo que establezcan con el trabajador o prestador de servicios:
+    p En el sistema de seguridad social colombiano, no todos los responsables del pago de aportes tienen la misma naturaleza jurídica. La ley distingue dos figuras con obligaciones diferentes según el tipo de vínculo que establezcan con el trabajador o prestador de servicios:
     .row.justify-content-center.mb-4
       .col-lg-5
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img4.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img4.svg' alt='')
           .tarjeta.bgfI02.w-100
             .p-4
               p.text-center #[b Empleador]
               p.text-center Persona natural o jurídica que contrata los servicios de una persona natural mediante un contrato de trabajo, asumiendo los derechos y obligaciones que de esta relación se derivan conforme al Código Sustantivo del Trabajo. El elemento que define al empleador es el poder de subordinación sobre el trabajador: la facultad de impartir órdenes, establecer horarios, determinar el lugar de trabajo y ejercer control disciplinario. En contraprestación, el empleador asume la responsabilidad de pagar el salario pactado, el cual no puede ser inferior al SMLMV, las prestaciones sociales y los aportes a la seguridad social en la proporción que establece la ley.
       .col-lg-5
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img5.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img5.svg' alt='')
           .tarjeta.bgfI02.w-100
             .p-4
               p.text-center #[b Contratante]
               p.text-center Persona natural o jurídica que celebra un contrato de prestación de servicios con un contratista independiente. A diferencia del empleador, el contratante no tiene poder de subordinación, no paga prestaciones sociales y no asume la parte del empleador en los aportes de seguridad social. Sin embargo, desde la Ley 1955 de 2019, el contratante tiene la obligación de verificar que el contratista se encuentre al día en sus aportes antes de pagarle los honorarios. Esta obligación de verificación es de suma importancia: si el contratante paga sin verificar y posteriormente se determina que el contratista no cotizó, el contratante puede ser declarado solidariamente responsable por los aportes omitidos.
     .bloque-texto-gg.tarjeta.bgf1.mb-4
       .bloque-texto-gg__texto.p-4
-        p Una misma organización puede actuar simultáneamente como empleador frente a sus trabajadores con contrato laboral y como contratante frente a sus consultores y proveedores de servicios especializados. Esta dualidad de roles exige que el área de recursos humanos o nómina mantenga registros claramente diferenciados para cada tipo de vinculación, aplicando correctamente las normas propias de cada figura. La confusión entre roles puede generar errores sistémicos en la liquidación de los aportes que solo se detectan cuando la UGPP inicia una investigación, momento en que las consecuencias suelen ser considerablemente de mayor impacto económico, que si se hubieran corregido oportunamente.
+        p Una misma organización puede actuar simultáneamente como empleador frente a sus trabajadores con contrato laboral y como contratante frente a sus consultores y proveedores de servicios especializados. Esta dualidad de roles exige que el área de recursos humanos o nómina mantenga registros claramente diferenciados para cada tipo de vinculación, aplicando correctamente las normas propias de cada figura. La confusión entre roles puede generar errores sistémicos en la liquidación de los aportes que solo se detectan cuando la UGPP inicia una investigación, momento en que las consecuencias suelen ser considerablemente de mayor impacto económico que si se hubieran corregido oportunamente.
       .bloque-texto-gg__img(
       :style="{'background-image':`url(${require('@/assets/curso/temas/tema3/img6.png')})`}"
       )
@@ -70,7 +70,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema3/img7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img7.svg', alt='')
           
         h2.text-center Verificar el historial previo
         p Si un profesional trabajó como contratista durante dos años y es finalmente contratado laboralmente, el empleador debe revisar que durante ese período el trabajador haya cotizado correctamente al sistema. Por ejemplo, si el contratista estuvo seis meses sin cotizar, esos períodos quedarán como vacíos en su historia laboral que podrían afectar el reconocimiento futuro de prestaciones como la pensión de invalidez.
@@ -78,7 +78,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema3/img8.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img8.svg', alt='')
           
         h2.text-center No asumir responsabilidades anteriores
         p El nuevo empleador no responde por los aportes omitidos en períodos anteriores a la vinculación laboral. Por ejemplo, si el contratista no pagó aportes en salud durante tres meses antes de ser contratado, esa deuda corresponde exclusivamente al contratista y, en su caso, al contratante de ese período.
@@ -86,7 +86,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema3/img9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img9.svg', alt='')
           
         h2.text-center Garantizar la continuidad desde el primer día
         p El empleador sí es responsable de que la cobertura del trabajador quede activa desde el día en que inicia la relación laboral. Por ejemplo, si el contrato inicia el 1 de marzo y el empleador demora la afiliación hasta el 15 del mismo mes, cualquier contingencia ocurrida en ese intervalo será de su responsabilidad directa.
@@ -94,9 +94,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-8.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema3/img10.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/img10.png', alt='')
       .col-lg-9
-        p Establecida la distinción entre empleador y contratante, y comprendidas las responsabilidades que cada figura asume frente al sistema, el paso siguiente es conocer con precisión cuáles son las afiliaciones que deben tramitarse desde el primer día de la relación laboral. Afiliar correctamente a un trabajador no es un trámite administrativo de carácter opcional ni diferible, es una obligación legal inmediata que activa la protección del trabajador frente a las contingencias de salud, pensión y riesgos laborales. 
+        p Establecida la distinción entre empleador y contratante, y comprendidas las responsabilidades que cada figura asume frente al sistema, el paso siguiente es conocer con precisión cuáles son las afiliaciones que deben tramitarse desde el primer día de la relación laboral. Afiliar correctamente a un trabajador no es un trámite administrativo de carácter opcional ni diferible; es una obligación legal inmediata que activa la protección del trabajador frente a las contingencias de salud, pensión y riesgos laborales. 
         .p-4.bgf4
           p Cada componente del sistema tiene su propia entidad, su propio proceso y sus propios documentos requeridos, razón por la cual el profesional de nómina debe conocer con detalle el procedimiento aplicable a cada uno de ellos para garantizar que ningún trabajador quede desprotegido durante la vigencia del vínculo laboral.
     Separador
@@ -151,7 +151,7 @@
                   tr(style="background-color: #FFFFFF;")
                     th Caja de Compensación
                     td Caja seleccionada por el empleador.
-                    td Afiliación de la empresa y registro de los trabajadores. Aportes del 4% sobre el total de la nómina.
+                    td Afiliación de la empresa y registro de los trabajadores. Aportes del 4 % sobre el total de la nómina.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .p-4.bgf4
@@ -179,7 +179,7 @@
               p.mb-0 Los beneficios extralegales pactados expresamente como no salariales en el contrato o en la convención colectiva tampoco hacen parte de la base de cotización.            
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
-          img(src='@/assets/curso/temas/tema3/img11.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/img11.png', alt='')
     p La correcta identificación de los pagos que integran el IBC y de los que quedan excluidos es una de las competencias técnicas más importantes del profesional de nómina, dado que cualquier inclusión o exclusión indebida afecta directamente el valor de los aportes, las prestaciones económicas del trabajador y la base sobre la cual la UGPP adelanta sus procesos de fiscalización.
     p Para aplicar correctamente la distribución de aportes en la liquidación de nómina, el profesional debe tener en cuenta las siguientes situaciones especiales que con frecuencia generan errores en el cálculo del IBC:
     .row.justify-content-center.align-items-center.mb-4
@@ -202,11 +202,11 @@
               p El pago de los aportes a través de la PILA debe realizarse dentro de los plazos establecidos por la Superintendencia Financiera, los cuales varían según el número de empleados de la empresa. El pago extemporáneo genera intereses de mora y puede activar un proceso de fiscalización por parte de la UGPP.
       .col-lg-3.col-4.mb-4.mb-lg-0.order-1.order-lg-2
         figure
-          img(src="@/assets/curso/temas/tema3/img12.png", alt="alt")
+          img(src="@/assets/curso/temas/tema3/img12.png", alt="")
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-8.mb-4.mb-lg-0
         figure
-          img(src="@/assets/curso/temas/tema3/img13.png", alt="alt")
+          img(src="@/assets/curso/temas/tema3/img13.png", alt="")
       .col-lg-9
         p El conocimiento de estas situaciones especiales permite al profesional de nómina anticipar errores que, de no corregirse antes de la presentación de la PILA, generan inconsistencias en la historia laboral del trabajador y pueden derivar en investigaciones por parte de la UGPP con consecuencias económicas significativas para la organización.
         .p-4.bgf1
@@ -229,31 +229,31 @@
               tbody
                 tr(style="background-color: #FBF7F1;")
                   th Salud (SGSSS)
-                  td 8.5% del IBC.
-                  td 4% del IBC / Total: 12.5%.
+                  td 8.5 % del IBC.
+                  td 4 % del IBC / Total: 12.5 %.
                 tr
                   th Pensión (SGP)
-                  td 12% del IBC.
-                  td 4% del IBC / Total: 16%.
+                  td 12 % del IBC.
+                  td 4 % del IBC / Total: 16 %.
                 tr(style="background-color: #FBF7F1;")
                   th Solidaridad Pensional
                   td No aplica.
-                  td 1% adicional (IBC > 4 SMLMV).
+                  td 1 % adicional (IBC > 4 SMLMV).
                 tr
                   th Riesgos Laborales (ARL)
-                  td 0.522% a 6.960% del IBC.
-                  td 0% / Total según clase de riesgo.
+                  td 0.522 % a 6.960 % del IBC.
+                  td 0 % / Total según clase de riesgo.
                 tr(style="background-color: #FBF7F1;")
                   th Caja de Compensación
-                  td 4% del total nómina.
+                  td 4 % del total de la nómina.
                   td No aplica.
                 tr
                   th SENA
-                  td 2% del total nómina (si nómina ≥ 10 SMLMV).
+                  td 2 % del total de la nómina (si nómina ≥ 10 SMLMV).
                   td No aplica.
                 tr(style="background-color: #FBF7F1;")
                   th ICBF
-                  td 3% del total nómina (si nómina ≥ 10 SMLMV).
+                  td 3 % del total de la nómina (si nómina ≥ 10 SMLMV).
                   td No aplica.
     .row.justify-content-center.align-items-center
       .col-lg-9.order-2.order-lg-1
@@ -261,12 +261,12 @@
         .row.justify-content-center.align-items-center
             .col-lg-auto.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema3/img14.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                img(src='@/assets/curso/temas/tema3/img14.svg', style="width:70px", alt='').mb-2
             .col-lg-10
               p.mb-0 Una vez comprendida esta distribución y los porcentajes aplicables a cada componente del sistema, el siguiente reto del profesional de nómina es garantizar que los eventos que modifican la situación laboral del trabajador durante el período de liquidación queden correctamente registrados y reportados en la PILA. Estos eventos, denominados #[b novedades], determinan el IBC real de cada período, activan o suspenden coberturas y definen quién asume el pago de las prestaciones correspondientes. Su manejo preciso es lo que distingue una liquidación rigurosa de una que expone a la organización a riesgos innecesarios frente a las entidades de control.        
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
-          img(src="@/assets/curso/temas/tema3/img15.png", alt="alt")
+          img(src="@/assets/curso/temas/tema3/img15.png", alt="")
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.4 Novedades y PILA
@@ -281,38 +281,38 @@
           )
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
-          img(src="@/assets/curso/temas/tema3/img17.svg", alt="alt")
+          img(src="@/assets/curso/temas/tema3/img17.svg", alt="")
     .BG022.p-5.mb-4
       .tarjeta.slider-custom-bg.p-4
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-lg-0.order-1.order-lg-2
               figure
-                img(src='@/assets/curso/temas/tema3/img17_1.svg', alt='Gráfico ilustrativo de uso de programa')
+                img(src='@/assets/curso/temas/tema3/img17_1.svg', alt='')
             .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
               h4 La novedad de ingreso (código INI)
               p Debe reportarse en la PILA del mes en que el trabajador inicia la relación laboral, con la fecha exacta de inicio. Si el ingreso ocurre en la mitad del mes, el IBC del período se calcula de manera proporcional a los días laborados. IBC diario = IBC mensual ÷ 30. Esta novedad activa la cobertura del sistema para el nuevo trabajador desde la fecha indicada. Es fundamental que el reporte se realice antes del pago de la PILA para garantizar que el trabajador quede con cobertura activa desde el día de inicio. Un ingreso reportado tarde puede dejar al trabajador sin cobertura durante el período de demora.
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-lg-0.order-1.order-lg-2
               figure
-                img(src='@/assets/curso/temas/tema3/img18.svg', alt='Gráfico ilustrativo de uso de programa')
+                img(src='@/assets/curso/temas/tema3/img18.svg', alt='')
             .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
               h4 La novedad de retiro (código RET)
-              p Debe reportarse en la PILA del mes en que termina la relación laboral, con la fecha exacta de terminación. El IBC del período final se calcula proporcionalmente a los días laborados. Después del retiro, la cobertura de salud del trabajador se mantiene activa durante un período de protección laboral que varía entre uno y tres meses, dependiendo del tiempo de cotización, conforme al artículo 77 de la Ley 1753 de 2015. Esta protección es importante para el trabajador que queda desempleado, pues les garantiza el acceso a servicios de salud mientras busca un nuevo empleo.
+              p Debe reportarse en la PILA del mes en que termina la relación laboral, con la fecha exacta de terminación. El IBC del período final se calcula proporcionalmente a los días laborados. Después del retiro, la cobertura de salud del trabajador se mantiene activa durante un período de protección laboral que varía entre uno y tres meses, dependiendo del tiempo de cotización, conforme al artículo 77 de la Ley 1753 de 2015. Esta protección es importante para el trabajador que queda desempleado, pues le garantiza el acceso a servicios de salud mientras busca un nuevo empleo.
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-lg-0.order-1.order-lg-2
               figure
-                img(src='@/assets/curso/temas/tema3/img19.svg', alt='Gráfico ilustrativo de uso de programa')
+                img(src='@/assets/curso/temas/tema3/img19.svg', alt='')
             .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
-              h4 Las novedades de incapacidad
-              p Presentan una complejidad particular por el régimen diferenciado según el origen de la contingencia. Las incapacidades por enfermedad común o accidente no laboral durante los primeros dos días son asumidas por el empleador; a partir del tercer día y hasta el día 180, la EPS asume el pago del subsidio equivalente al 66.67% del IBC. Las incapacidades que superen 180 días pueden ser calificadas por las juntas de calificación de invalidez como incapacidad permanente parcial, invalidez o gran invalidez, con las prestaciones correspondientes a cargo del fondo de pensiones. Durante el período de incapacidad, el trabajador continúa cotizando a pensión y ARL sobre el valor del subsidio, pero la EPS es la que realiza el pago a la nómina.
+              h4 Las novedades de incapacidad de origen común
+              p Se gestionan de acuerdo con la duración de la incapacidad. El empleador asume los dos primeros días y, desde el día 3 hasta el día 180, la EPS reconoce la prestación económica. Durante los primeros 90 días se pagan las dos terceras partes del salario y, del día 91 al 180, la mitad, sin que el valor reconocido sea inferior al salario mínimo proporcional. A partir del día 181, la administradora de fondos de pensiones puede reconocer un subsidio hasta por 360 días adicionales, cuando exista concepto favorable de rehabilitación. Durante la incapacidad continúan los aportes a salud y pensión, pero no se causa cotización a riesgos laborales mientras no exista prestación del servicio (Código Sustantivo del Trabajo, 1950, art. 227; Decreto Ley 019 de 2012, art. 142; Decreto 780 de 2016). 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-lg-0.order-1.order-lg-2
               figure
-                img(src='@/assets/curso/temas/tema3/img19.svg', alt='Gráfico ilustrativo de uso de programa')
+                img(src='@/assets/curso/temas/tema3/img19.svg', alt='')
             .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
               h4 Las licencias de maternidad y paternidad
-              p Constituyen prestaciones económicas de especial protección legal en Colombia, financiadas por la EPS y sujetas a requisitos específicos de cotización. La licencia de maternidad, ampliada a 18 semanas calendario por la Ley 1822 de 2017, debe ser pagada por la EPS al 100 % del IBC; el empleador anticipa el valor a la trabajadora y lo recupera mediante la compensación en la PILA. La licencia de paternidad tiene una duración de ocho días hábiles conforme a la Ley 2114 de 2021 y sigue el mismo mecanismo de pago. Para que la EPS reconozca la licencia de maternidad, la trabajadora debe acreditar el período mínimo de cotización establecido por la ley; si no lo cumple, el empleador asume el costo proporcional a las semanas no cotizadas.
+              p Constituyen prestaciones económicas de especial protección legal. La licencia de maternidad tiene una duración general de 18 semanas y la licencia de paternidad corresponde, de manera general, a dos semanas. Ambas se reconocen con base en el ingreso reportado al Sistema General de Seguridad Social en Salud al inicio de la licencia. En el caso de trabajadores dependientes, el empleador tramita directamente ante la EPS el reconocimiento económico. Cuando las cotizaciones cubren un periodo inferior al exigido, se aplican las reglas de pago proporcional; si la falta de aportes es atribuible al empleador, este debe asumir el valor correspondiente (Ley 2114 de 2021, art. 2; Decreto 780 de 2016; Decreto 1427 de 2022).
     p El manejo correcto de cada una de estas novedades exige identificar con precisión el código correspondiente, calcular el IBC aplicable al período y reportarlo oportunamente en la PILA. La siguiente tabla presenta de manera consolidada los códigos de novedad más frecuentes en la gestión de nómina, el período de cotización que afectan y el responsable del pago en cada caso.
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10
@@ -334,7 +334,7 @@
                   td Inicio de la relación laboral. Activa cobertura del sistema. IBC proporcional si el ingreso no es el día 1.
                 tr    
                   th RET – Retiro.
-                  td Terminación laboral. IBC proporcional. Cobertura salud se extiende por período de protección.
+                  td Terminación laboral. IBC proporcional. Cobertura de salud que se extiende por período de protección.
                 tr(style="background-color: #FBF7F1;")
                   th VSP – Variación salarial permanente.
                   td Cambio definitivo del IBC. Se aplica a partir del período en que ocurre. Impacta directamente el valor de todos los aportes.
@@ -343,13 +343,13 @@
                   td Cambio transitorio del IBC (ej. bonificación temporal). Solo aplica para el período en que se produce.
                 tr(style="background-color: #FBF7F1;")
                   th ING – Incapacidad enfermedad general.
-                  td Días 1-2: paga empleador. Días 3-180: paga EPS al 66.67% del IBC. > 180 días: calificación de invalidez.
+                  td Días 1-2: paga empleador. Días 3-180: paga EPS al 66.67 % del IBC. > 180 días: calificación de invalidez.
                 tr
-                  th LAM – Licencia maternidad.
-                  td 18 semanas calendario. Paga EPS al 100% del IBC. El empleador anticipa y compensa en PILA.
+                  th LAM – Licencia de maternidad.
+                  td 18 semanas calendario. Paga EPS al 100 % del IBC. El empleador anticipa y compensa en PILA.
                 tr(style="background-color: #FBF7F1;")
-                  th LAP – Licencia paternidad.
-                  td 8 días hábiles. Paga EPS al 100% del IBC. El empleador anticipa y compensa en PILA.
+                  th LAP – Licencia de paternidad.
+                  td 8 días hábiles. Paga EPS al 100 % del IBC. El empleador anticipa y compensa en PILA.
                 tr
                   th SLN – Suspensión del contrato.
                   td No se cotiza durante el período de suspensión (huelga, causa de fuerza mayor). Sin IBC en ese período.
@@ -369,9 +369,9 @@
             .row
               .col-lg-auto.d-none.d-lg-block
                 figure
-                  img(src='@/assets/curso/temas/tema3/img22.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                  img(src='@/assets/curso/temas/tema3/img22.svg', style="width:70px", alt='').mb-2
               .col-lg-12
-                p.mb-0 La UGPP cuenta con acceso a múltiples fuentes de información tributaria, laboral y del sistema de seguridad social, lo que le permite identificar con precisión las omisiones e inexactitudes en los reportes de la PILA. Por esta razón, el conocimiento de sus facultades, los procedimientos de investigación y las sanciones aplicables no es opcional para el profesional de nómina, es una competencia indispensable para proteger al trabajador, al empleador y a la organización frente a las consecuencias del incumplimiento.    
+                p.mb-0 La UGPP cuenta con acceso a múltiples fuentes de información tributaria, laboral y del sistema de seguridad social, lo que le permite identificar con precisión las omisiones e inexactitudes en los reportes de la PILA. Por esta razón, el conocimiento de sus facultades, los procedimientos de investigación y las sanciones aplicables no es opcional para el profesional de nómina; es una competencia indispensable para proteger al trabajador, al empleador y a la organización frente a las consecuencias del incumplimiento.    
           .bloque-texto-gg__img(
           :style="{'background-image':`url(${require('@/assets/curso/temas/tema3/img21.png')})`}"
           )
@@ -387,7 +387,7 @@
               p La UGPP puede revisar información de hasta cinco años atrás mediante el cruce de datos provenientes de la Dirección de Impuestos y Aduanas Nacionales (DIAN), el Ministerio del Trabajo, las EPS, las AFP y las ARL. Ejemplo: si una empresa omitió reportar un trabajador durante seis meses, la UGPP detecta la inconsistencia al comparar las declaraciones de renta del empleador con los reportes de la PILA.
           .row(numero="3" titulo="Proceso de investigación")
             .col-md-12.mb-4.mb-md-0
-              p Se desarrolla en etapas sucesivas, requerimiento de información, análisis de soportes, requerimiento para declarar o corregir, requerimiento de explicaciones, liquidación oficial y recursos de ley ante la jurisdicción contencioso-administrativa. Ejemplo: un empleador que recibe un requerimiento de información tiene un plazo legal para responder; si no lo hace, la UGPP avanza a la siguiente etapa sin considerar sus argumentos. 
+              p Se desarrolla en etapas sucesivas: requerimiento de información, análisis de soportes, requerimiento para declarar o corregir, requerimiento de explicaciones, liquidación oficial y recursos de ley ante la jurisdicción contencioso-administrativa. Ejemplo: un empleador que recibe un requerimiento de información tiene un plazo legal para responder; si no lo hace, la UGPP avanza a la siguiente etapa sin considerar sus argumentos. 
           .row(numero="4" titulo="Sanciones económicas aplicables")
             .col-md-12.mb-4.mb-md-0
               p Comprenden la liquidación oficial de los aportes omitidos, los intereses moratorios desde la fecha en que debieron pagarse, la sanción por inexactitud de hasta el 160 % del mayor valor determinado y multas entre 1 y 20.000 UVT por no entregar información o hacerlo de forma errónea. Ejemplo: una empresa que reportó el IBC de diez trabajadores durante tres años puede enfrentar un pasivo que supera el valor de varios meses de nómina, incluyendo intereses y sanciones. 
@@ -416,28 +416,28 @@
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle
             figure
-              img(src="@/assets/curso/temas/tema3/img24.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img24.svg", alt="")
           h5.text-center Liquidación oficial de aportes
           p.text-center Comprende el valor de los aportes omitidos o reportados por un valor inferior al debido, determinado mediante el cruce de información entre las fuentes disponibles para la UGPP.
       .col-lg-3.mb-4.mb-lg-0
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/temas/tema3/img25.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img25.svg", alt="")
           h5.text-center Intereses moratorios
           p.text-center Se calculan a la tasa certificada por la UGPP desde la fecha en que debieron pagarse los aportes hasta la fecha efectiva del pago. Su acumulación puede representar un valor significativo cuando el período investigado abarca varios años.
       .col-lg-3.mb-4.mb-lg-0
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/temas/tema3/img26.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img26.svg", alt="")
           h5.text-center Sanción por inexactitud
           p.text-center Se aplica cuando los aportes fueron declarados por un valor inferior al correcto y puede ascender hasta el 160 % del mayor valor determinado en la liquidación oficial.
       .col-lg-3.mb-4.mb-lg-0
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/temas/tema3/img27.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img27.svg", alt="")
           h5.text-center Multas por no suministrar información
           p.text-center Se imponen cuando el empleador o contratante no entrega la información requerida o la suministra de forma errónea. Su valor oscila entre 1 y 20.000 UVT según la gravedad de la conducta.
     p La acumulación de estos conceptos puede representar un impacto financiero que excede varias veces el valor de los aportes originalmente omitidos, lo que convierte el cumplimiento oportuno en la estrategia más eficiente para proteger la sostenibilidad de la organización.
@@ -447,7 +447,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img28.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img28.png", alt="")
           .crd_hover_txt--body
             .tit-tarj.p-3
               .ubicar
@@ -460,7 +460,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img29.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img29.png", alt="")
           .crd_hover_txt--body
             .tit-tarj.p-3
               .ubicar
@@ -473,7 +473,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img30.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img30.png", alt="")
           .crd_hover_txt--body
             .tit-tarj.p-3
               .ubicar
@@ -486,7 +486,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img31.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img31.png", alt="")
           .crd_hover_txt--body
             .tit-tarj.p-3
               .ubicar
@@ -494,26 +494,26 @@
                   i.fas.fa-angle-up
                 h5.mb-3 Recursos de ley
             p.mb-0 Contra la liquidación oficial proceden los recursos de reposición y apelación en la vía administrativa y, de no prosperar, la acción ante la jurisdicción contencioso-administrativa.
-    p Más allá de las actuaciones de la UGPP, el empleador que no cumpla con sus obligaciones de seguridad social puede enfrentar demandas laborales por parte de sus trabajadores, especialmente en casos de accidentes o enfermedades laborales durante períodos de no afiliación, investigaciones del Ministerio del Trabajo que pueden resultar en multas adicionales, y en casos extremos, responsabilidad penal por omisión del agente retenedor. 
+    p Más allá de las actuaciones de la UGPP, el empleador que no cumpla con sus obligaciones de seguridad social puede enfrentar demandas laborales por parte de sus trabajadores, especialmente en casos de accidentes o enfermedades laborales durante períodos de no afiliación, investigaciones del Ministerio del Trabajo que pueden resultar en multas adicionales y, en casos extremos, responsabilidad penal por omisión del agente retenedor. 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.bgf2-1
           .row.justify-content-center.align-items-center
             .col-lg-auto.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema3/img32.svg', style="width:70px", alt='Texto que describa la imagen').mb-2
+                img(src='@/assets/curso/temas/tema3/img32.svg', style="width:70px", alt='').mb-2
             .col-lg-12
               p.text-center.mb-0 Implementar controles internos, mantener documentación soporte y actualizar el conocimiento normativo son las prácticas que distinguen al profesional de nómina competente y protegen a la organización frente a cualquier investigación de la UGPP.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-2.order-lg-1
-        p La mejor estrategia para enfrentar una investigación de la UGPP es haberla prevenido mediante el cumplimiento riguroso de las obligaciones de nómina. Cuando se detectan inconsistencias antes de recibir una notificación de la entidad, es conveniente optar por la corrección voluntaria, pagar los aportes omitidos con sus intereses moratorios antes de que la UGPP inicie la investigación puede reducir significativamente las sanciones aplicables, pues las multas por inexactitud y las penalidades adicionales no proceden cuando la corrección es voluntaria y oportuna. Esta práctica es, además, un indicador de la cultura de cumplimiento de la organización, que puede ser valorada favorablemente en futuras investigaciones.
+        p La mejor estrategia para enfrentar una investigación de la UGPP es haberla prevenido mediante el cumplimiento riguroso de las obligaciones de nómina. Cuando se detectan inconsistencias antes de recibir una notificación de la entidad, es conveniente optar por la corrección voluntaria; pagar los aportes omitidos con sus intereses moratorios antes de que la UGPP inicie la investigación puede reducir significativamente las sanciones aplicables, pues las multas por inexactitud y las penalidades adicionales no proceden cuando la corrección es voluntaria y oportuna. Esta práctica es, además, un indicador de la cultura de cumplimiento de la organización, que puede ser valorada favorablemente en futuras investigaciones.
       .col-lg-3.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
-          img(src='@/assets/curso/temas/tema3/img33.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/img33.svg', alt='')
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-8.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema3/img34.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/img34.svg', alt='')
       .col-lg-9
         .p-4.bgf1
           p El dominio de los fundamentos normativos, las obligaciones del empleador y las consecuencias del incumplimiento se consolida cuando se aplica a situaciones laborales reales. El tema que se desarrolla a continuación traslada estos conceptos al ejercicio concreto de liquidar aportes, reportar novedades y tomar decisiones correctas en el área de nómina de cualquier organización colombiana.
