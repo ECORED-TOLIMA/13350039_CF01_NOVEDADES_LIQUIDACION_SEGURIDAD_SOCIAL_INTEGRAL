@@ -178,7 +178,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF1_13350039_DU.pdf',
+        download: 'downloads/CFA1_13350039_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -388,8 +388,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Maria Fernanda Pineda Mora',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

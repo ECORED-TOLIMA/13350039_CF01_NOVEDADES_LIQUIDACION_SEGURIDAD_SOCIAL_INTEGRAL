@@ -402,7 +402,7 @@
               p Comparar periódicamente los aportes liquidados en nómina con los valores efectivamente pagados en la PILA permite detectar diferencias a tiempo, corregir inconsistencias y reducir el riesgo de hallazgos en una eventual investigación. Ejemplo: una empresa que coteja mensualmente su nómina con la PILA detecta que un trabajador con variación salarial siguió cotizando sobre el salario anterior, corrige la novedad VSP y evita una acumulación de diferencias que la UGPP podría cuestionar.
     p.mb-4 Las facultades de la UGPP y la magnitud de las sanciones evidencian que la gestión de la seguridad social no es solo una tarea administrativa, sino una responsabilidad legal de alto impacto para la sostenibilidad de las organizaciones. El dominio de estos procesos proporciona la base necesaria para abordar los casos prácticos en los que se aplican los conceptos normativos a situaciones reales del contexto laboral colombiano.
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/icon.png', alt='Imagen decorativa')
+      img(src='@/assets/curso/icon.png', alt='')
       h5 Sanciones por incumplimiento y función de la UGPP
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
