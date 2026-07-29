@@ -85,7 +85,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Que el contratista debe pagar el 100% de los aportes a seguridad social.',
+                'Que el contratista debe pagar el 100 % de los aportes a seguridad social.',
               esCorrecta: false,
             },
           ],
@@ -97,7 +97,7 @@ export default {
         {
           id: 3,
           texto:
-            'En un contrato de prestación de servicios, ¿quién asume el 100% de los aportes al Sistema de Seguridad Social?',
+            'En un contrato de prestación de servicios, ¿quién asume el 100 % de los aportes al Sistema de Seguridad Social?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -120,17 +120,17 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'El 100% del valor mensualizado del contrato.',
+              texto: 'El 100 % del valor mensualizado del contrato.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'El 70% del valor mensualizado del contrato.',
+              texto: 'El 70 % del valor mensualizado del contrato.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'El 40% del valor mensualizado del contrato.',
+              texto: 'El 40 % del valor mensualizado del contrato.',
               esCorrecta: true,
             },
             {
@@ -201,10 +201,10 @@ export default {
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '4%.', esCorrecta: false },
-            { id: 'b', texto: '8%.', esCorrecta: false },
-            { id: 'c', texto: '12%.', esCorrecta: true },
-            { id: 'd', texto: '16%.', esCorrecta: false },
+            { id: 'a', texto: '4 %.', esCorrecta: false },
+            { id: 'b', texto: '8 %.', esCorrecta: false },
+            { id: 'c', texto: '12 %.', esCorrecta: true },
+            { id: 'd', texto: '16 %.', esCorrecta: false },
           ],
           mensaje_correcto:
             'El empleador aporta el 12 % del IBC a pensión y el trabajador el 4 %.',
@@ -352,7 +352,7 @@ export default {
             {
               id: 'd',
               texto:
-                'El trabajador asume el 100% de sus aportes durante el período de prueba.',
+                'El trabajador asume el 100 % de sus aportes durante el período de prueba.',
               esCorrecta: false,
             },
           ],
