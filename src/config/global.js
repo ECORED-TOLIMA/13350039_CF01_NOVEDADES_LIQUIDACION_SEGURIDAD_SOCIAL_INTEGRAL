@@ -359,7 +359,7 @@ export default {
         },
         {
           nombre: 'Gloria Lida Alzate Suárez',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -379,7 +379,7 @@ export default {
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animador y productor multimedia',
+          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],

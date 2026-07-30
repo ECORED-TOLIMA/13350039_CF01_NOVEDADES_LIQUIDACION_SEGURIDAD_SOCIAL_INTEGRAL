@@ -414,7 +414,7 @@
       .col-lg-9
         .bloque-texto-gg.tarjeta.bgf1.mb-4
           .bloque-texto-gg__texto.p-4
-            p El contrato a término fijo se caracteriza por la certeza temporal que ofrece a ambas partes, el empleador puede planificar sus costos laborales con mayor precisión y el trabajador conoce de antemano la duración de su vinculación. No obstante, esta modalidad no implica en ningún caso derechos laborales o de seguridad social reducidos, durante su vigencia, el trabajador goza exactamente de los mismos derechos que cualquier trabajador bajo contrato indefinido, incluyendo el derecho a todos los componentes del sistema de seguridad social, a las prestaciones sociales y a la estabilidad reforzada en los casos que la ley contempla.
+            p El contrato a término fijo se caracteriza por la certeza temporal que ofrece a ambas partes; el empleador puede planificar sus costos laborales con mayor precisión y el trabajador conoce de antemano la duración de su vinculación. No obstante, esta modalidad no implica en ningún caso derechos laborales o de seguridad social reducidos; durante su vigencia, el trabajador goza exactamente de los mismos derechos que cualquier trabajador bajo contrato indefinido, incluyendo el derecho a todos los componentes del sistema de seguridad social, a las prestaciones sociales y a la estabilidad reforzada en los casos que la ley contempla.
           .bloque-texto-gg__img(
           :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img33.svg')})`}"
           )
